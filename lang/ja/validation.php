@@ -155,13 +155,15 @@ return [
 
     'attributes' => [
       'password' => 'パスワード',
-      'name' => '氏名',
+      'name' => '名前',
       'title' => '件名',
       'content' => '本文',
       'gender' => '性別',
       'age' => '年齢',
       'contact' => 'お問い合わせ内容',
-      'caution' => '注意事項'
+      'caution' => '注意事項',
+      'memo' => 'メモ',
+      'price' => '価格',
     ],
 
 ];
